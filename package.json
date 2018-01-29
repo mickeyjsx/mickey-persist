@@ -1,6 +1,6 @@
 {
   "name": "mickey-persist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tool for compatible redux-persist(v5) and mickeyjsx",
   "main": "src/index.js",
   "scripts": {

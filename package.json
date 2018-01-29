@@ -1,0 +1,24 @@
+{
+  "name": "mickey-persist",
+  "version": "1.0.0",
+  "description": "A tool for compatible redux-persist(v5) and mickeyjsx",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mickeyjsx/mickey-persist.git"
+  },
+  "keywords": [
+    "mickey",
+    "mickeyjsx",
+    "redux-persist"
+  ],
+  "author": "yoha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mickeyjsx/mickey-persist/issues"
+  },
+  "homepage": "https://github.com/mickeyjsx/mickey-persist#readme"
+}
